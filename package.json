@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfaiz6/BookShop-react-mysql---backend.git"
+  },
+  "author": "mfaiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfaiz6/BookShop-react-mysql---backend/issues"
+  },
+  "homepage": "https://github.com/mfaiz6/BookShop-react-mysql---backend#readme"
+}
